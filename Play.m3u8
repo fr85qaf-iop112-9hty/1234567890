@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:3
+#EXT-X-ALLOW-CACHE:YES
+#EXTINF:3.000,
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/l_22213642_82254327_3.ts?expires=1742304794&md5=XPsC_M2-yHbp_2VdJIpAeg&user=5da67a7a838746c189ccc82be2251c92
+#EXTINF:3.000,
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/l_22213642_82254327_3.ts?expires=1742304794&md5=XPsC_M2-yHbp_2VdJIpAeg&user=5da67a7a838746c189ccc82be2251c92
+#EXTINF:3.000,
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/l_22213642_82254327_3.ts?expires=1742304794&md5=XPsC_M2-yHbp_2VdJIpAeg&user=5da67a7a838746c189ccc82be2251c92
+#EXTINF:3.000,
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/l_22213642_82254327_3.ts?expires=1742304794&md5=XPsC_M2-yHbp_2VdJIpAeg&user=5da67a7a838746c189ccc82be2251c92
+#EXTINF:3.000,
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/l_22213642_82254327_3.ts?expires=1742304794&md5=XPsC_M2-yHbp_2VdJIpAeg&user=5da67a7a838746c189ccc82be2251c92
